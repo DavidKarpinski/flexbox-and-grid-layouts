@@ -1,4 +1,4 @@
-# flexbox-and-grid-layouts
-Awari Flexbox and Grid layouts projects
+# flexbox-layouts
+Awari Flexbox layout projects
 
 ![preview image](preview.png)
